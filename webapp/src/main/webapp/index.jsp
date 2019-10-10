@@ -3,4 +3,4 @@
 <h2> successfully deployed </h2>
 <h2> latest deploy </h2>
 <h2> auto deploy poll scm </h2>
-<h2> final deploy to docker using ansible playbooks </h2>
+<h1> final deploy to docker using ansible playbooks </h1>
